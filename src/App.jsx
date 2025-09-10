@@ -78,4 +78,3 @@ function App() {
 export default App
 
 
-//return [...new Set(allPositions)]  me la spieghi passo passo
